@@ -1,6 +1,6 @@
 {
   "name": "com.hibzz.foldout",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "hibzz.foldout",
   "description": "Foldout as a Decorator for group variables in Unity Script Inspector",
   "author": {

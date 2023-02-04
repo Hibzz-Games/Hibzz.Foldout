@@ -11,7 +11,11 @@ Foldout as a Decorator for group variables in Unity Script Inspector with option
 ## How to
 
 ### Install
-Download and copy the **Editor** and **Inspector** folders into your Project Assets.
+**Via Github**
+This package can be installed in the Unity Package Manager using the following git URL.
+```
+https://github.com/Hibzz-Games/Hibzz.Foldout.git
+```
 
 ### Use
 
